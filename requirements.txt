@@ -1,7 +1,6 @@
 streamlit
 streamlit_chat
 langchain
-sentence_transformers
 google-cloud-storage
 unstructured
 pinecone-client
